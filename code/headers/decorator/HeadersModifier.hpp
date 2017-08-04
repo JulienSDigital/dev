@@ -1,7 +1,7 @@
 /**
  * @file HeadersModifier.hpp
- * @author DevS_id
- * @since 2016
+ * @author Maudiy
+ * @since 2017
  * @brief Fichier d'entêtepour le decorator concret HeadersModifier
 */
 

@@ -1,7 +1,7 @@
 /**
  * @file StrategyDL.hpp
- * @author DevS_id
- * @since 2016
+ * @author Maudiy
+ * @since 2017
  * @brief Fichier d'entête de la stratégie StrategyDL pour télécharger simplement un fichier.
 */
 #ifndef DEF_StrategyDL

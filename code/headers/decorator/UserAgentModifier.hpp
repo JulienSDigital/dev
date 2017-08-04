@@ -1,7 +1,7 @@
 /**
  * @file UserAgentModifier.hpp
- * @author DevS_id
- * @since 2016
+ * @author Maudiy
+ * @since 2017
  * @brief Fichier d'entête pour le decorator concret UserAgentModifier
 */
 

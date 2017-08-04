@@ -1,7 +1,7 @@
 /**
  * @file Lfi.hpp
- * @author DevS_id
- * @since 2016
+ * @author Maudiy
+ * @since 2017
  * @brief Fichier d'entête pour la faille Lfi
 */
 #ifndef DEF_Lfi

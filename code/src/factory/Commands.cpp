@@ -43,7 +43,7 @@ shared_ptr<Attack> Commands::fabriquerAttaque()
 void Commands::demarrage()
 {
 	cout << "###### Web Attacker v0.1 ######" << endl;
-	cout << "Sidney Falhun (c) 2016 - 2017" << endl;
+	cout << "Julien Lamarche (c) 2017 - 2017" << endl;
 	cout << "Bienvenue dans l'application n'hésitez pas à vérifier les mises à jour" << endl;
 }
 

@@ -1,7 +1,7 @@
 /**
  * @file StrategyDoubleExt.hpp
- * @author DevS_id
- * @since 2016
+ * @author Maudiy
+ * @since 2017
  * @brief Fichier d'entête de la stratégie StrategyDoubleExt pour utiliser la faille upload à double extensions.
 */
 #ifndef DEF_StrategyDoubleExt

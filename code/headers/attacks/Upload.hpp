@@ -1,7 +1,7 @@
 /**
  * @file Upload.hpp
- * @author DevS_id
- * @since 2016
+ * @author Maudiy
+ * @since 2017
  * @brief Fichier d'entête pour la faille Upload
 */
 #ifndef DEF_Upload
